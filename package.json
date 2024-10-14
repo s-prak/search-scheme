@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "ciphersweet-js": "^2.0.6",
+    "express": "^4.21.0",
+    "sodium-native": "^3.4.1",
+    "tf-idf": "^1.0.0"
+  }
+}
